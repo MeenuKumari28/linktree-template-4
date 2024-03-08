@@ -22,7 +22,7 @@ width.fixed.px: 860
 radius: $ds.radius.medium
 spacing: $ds.spaces.horizontal-gap.space-between
 height.fixed.px: 480
-background.solid: $ds.colors.background.step-1
+background.solid: $ds.colors.background.base
 shadow: $shadow
 
 -- ftd.image:
@@ -85,6 +85,7 @@ social-link-url-4: $linktree.social-link-url-4
 -- ds.column:
 radius: $ds.radius.large
 background.solid: $ds.colors.background.base
+shadow: $shadow
 
 -- ftd.image:
 src: $linktree.avatar
